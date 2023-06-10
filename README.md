@@ -5,7 +5,7 @@ Explore and analyze a dataset of top movies and TV shows using pandas. Clean, pr
 ## Analysis Report: Top Movies and TV Shows
 ### Data Cleaning and Preprocessing
 
-We began by cleaning and preprocessing the data. We removed unnecessary columns, such as Poster_Link, Released_Year, Certificate, Runtime, Overview, Meta_score, Star1, Star2, Star3, Star4, No_of_Votes, and Gross. These columns were not relevant to our analysis. We also handled missing values by dropping rows with missing values.
+We began by cleaning and preprocessing the data. We removed unnecessary columns, such as Poster_Link, Released_Year, Certificate, Runtime, IMDB_Rating, Overview, Meta_score, Star1, Star2, Star3, Star4, No_of_Votes, and Gross. These columns were not relevant to our analysis. We also handled missing values by dropping rows with missing values.
 
 ### Most Popular Genre
 
